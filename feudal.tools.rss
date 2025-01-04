@@ -8,17 +8,16 @@
 	>
 
 <channel>
-	<title>Nyuton.net</title>
-	<atom:link href="https://nyuton.net/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nyuton.net</link>
+	<title>Feudal.Tools</title>
+	<atom:link href="https://feudal.tools" rel="self" type="application/rss+xml" />
+	<link>https://feudal.tools</link>
 	<description> &#x1f680; &#x1f680; &#x1f680; &#x1f680;&#x1f31c;</description>
-	<lastBuildDate>Sat, 02 Oct 2021 16:33:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Jan 2025 12:56:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://nyuton.net/wp-content/uploads/2016/10/nyuton-150x150.jpg</url>
@@ -27,6 +26,27 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
+<item>
+		<title>Tradepost Mod Update 1.6</title>
+		<link>https://nyuton.net/tradepost-mod-update-1-6/</link>
+					<comments>https://nyuton.net/tradepost-mod-update-1-6/#comments</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Sat, 02 Oct 2021 16:33:56 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1122</guid>
+
+					<description><![CDATA[Feudal.Tools v2.4.0]]></description>
+										<content:encoded><![CDATA[
+<p>We've made a few updates to Feudal.Tools and the additional services, upgrading PHP versions to ensure continued security patches and we've resolved bugs that have occured during this transition.</p>
+<p>Together with this we've moved to a different stronger hardware and removed free options for our tools as they cost to run</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/</wfw:commentRss>
+			<slash:comments></slash:comments>
+		
+		
+			</item>
 	<item>
 		<title>Tradepost Mod Update 1.6</title>
 		<link>https://nyuton.net/tradepost-mod-update-1-6/</link>
