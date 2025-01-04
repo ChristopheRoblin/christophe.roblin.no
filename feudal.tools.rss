@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nyuton.net</title>
+	<atom:link href="https://nyuton.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nyuton.net</link>
+	<description> &#x1f680; &#x1f680; &#x1f680; &#x1f680;&#x1f31c;</description>
+	<lastBuildDate>Sat, 02 Oct 2021 16:33:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://nyuton.net/wp-content/uploads/2016/10/nyuton-150x150.jpg</url>
+	<title>Nyuton.net</title>
+	<link>https://nyuton.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tradepost Mod Update 1.6</title>
+		<link>https://nyuton.net/tradepost-mod-update-1-6/</link>
+					<comments>https://nyuton.net/tradepost-mod-update-1-6/#comments</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Sat, 02 Oct 2021 16:33:56 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1122</guid>
+
+					<description><![CDATA[Another year has passed and it&#8217;s time to give the trading post mod some love. Here&#8217;s an updated version that features inventory capacity management, blueprint trading and custom region mapping for heavily modded servers. Inventory Capacity Indicators The guild trading, server sales and storage room tabs now have inventory capacity indicators that update as you &#8230; <a href="https://nyuton.net/tradepost-mod-update-1-6/" class="more-link">Continue reading<span class="screen-reader-text"> "Tradepost Mod Update 1.6"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Another year has passed and it&#8217;s time to give the trading post mod some love. Here&#8217;s an updated version that features inventory capacity management, blueprint trading and custom region mapping for heavily modded servers.</p>
+
+
+
+<h4 class="wp-block-heading">Inventory Capacity Indicators</h4>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-full is-resized"><img decoding="async" src="https://nyuton.net/wp-content/uploads/2021/10/tp_160a.jpg" alt="" class="wp-image-1124" width="212" height="137" srcset="https://nyuton.net/wp-content/uploads/2021/10/tp_160a.jpg 352w, https://nyuton.net/wp-content/uploads/2021/10/tp_160a-300x193.jpg 300w" sizes="(max-width: 212px) 85vw, 212px" /></figure></div>
+
+
+
+<p>The guild trading, server sales and storage room tabs now have inventory capacity indicators that update as you change quantities for your trading goods. It displays the resulting inventory weight after the trade and won&#8217;t let you process trades that wouldn&#8217;t fit in your inventory. Say goodbye to lootbags on the ground due to lack of capacity.</p>
+
+
+
+<h4 class="wp-block-heading">Basic <strong>blueprint Trading</strong></h4>
+
+
+
+<p>Blueprints can now be sold at the guild trading post. The blueprint and receipe is saved and restored to the player buying the blueprint. Creating and selling blueprints in the server sales is not yet available.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="356" height="160" src="https://nyuton.net/wp-content/uploads/2021/10/tp_160b.jpg" alt="" class="wp-image-1125" srcset="https://nyuton.net/wp-content/uploads/2021/10/tp_160b.jpg 356w, https://nyuton.net/wp-content/uploads/2021/10/tp_160b-300x135.jpg 300w" sizes="(max-width: 356px) 85vw, 356px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Custom Region Mapping</h4>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-full is-resized"><a href="https://nyuton.net/wp-content/uploads/2021/10/tp_160.jpg"><img decoding="async" src="https://nyuton.net/wp-content/uploads/2021/10/tp_160.jpg" alt="" class="wp-image-1126" width="206" height="228" srcset="https://nyuton.net/wp-content/uploads/2021/10/tp_160.jpg 632w, https://nyuton.net/wp-content/uploads/2021/10/tp_160-270x300.jpg 270w" sizes="(max-width: 206px) 85vw, 206px" /></a></figure></div>
+
+
+
+<p>Servers with additional customized regions can now map these to the trading post for full support of such regional items. You&#8217;ll find the new option in the Administration tab. Make sure the mapping matches your region list in the database and you&#8217;re good to go. Do NOT use this if you&#8217;re using the three default regions. Also keep in mind that a custom region mapping breaks region name localization for the trading UI.</p>
+
+
+
+<p>You can find the updated server-side mod download in the feudal.tools Server Manager.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/tradepost-mod-update-1-6/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LiF:YO Livemap 3.2 released</title>
+		<link>https://nyuton.net/lifyo-livemap-3-2-released/</link>
+					<comments>https://nyuton.net/lifyo-livemap-3-2-released/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 13:45:03 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1119</guid>
+
+					<description><![CDATA[Due to some changes to the Steam server query protocol introduced in December last year, which are now being adapted by some gameserver providers, the Livemap has been updated with the latest SourceQuery library to support proper Livemap-Gameserver communication with such setups. Servers that were falsely shown as &#8216;offline&#8217; should be back to normal operation &#8230; <a href="https://nyuton.net/lifyo-livemap-3-2-released/" class="more-link">Continue reading<span class="screen-reader-text"> "LiF:YO Livemap 3.2 released"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Due to some <a href="https://steamcommunity.com/discussions/forum/14/2974028351344359625/" data-type="URL" data-id="https://steamcommunity.com/discussions/forum/14/2974028351344359625/" target="_blank" rel="noreferrer noopener">changes</a> to the Steam server query protocol introduced in December last year, which are now being adapted by some gameserver providers, the Livemap has been updated with the latest SourceQuery library to support proper Livemap-Gameserver communication with such setups.</p>
+
+
+
+<p>Servers that were falsely shown as &#8216;offline&#8217; should be back to normal operation with this update.</p>
+
+
+
+<p>This is actually a minor patch-like update. The version number bump origins from raising the PHP version requirement, which is now PHP 7.4 instead of 5.5. This is not relevant for Livemaps hosted at feudal.tools but if you&#8217;re hosting your Livemap on your own webserver please double-check the PHP version in use before attempting to update (Information tab in config page)</p>
+
+
+
+<p>Other minor fixes and changes:</p>
+
+
+
+<ul class="wp-block-list"><li>Added 4 new POI icons (Anchor, Tent, Horseshoes, Swords)</li><li>Fixed a possible crash when saving configuration with empty admin Steam ID</li></ul>
+
+
+
+<p>LiF:YO Livemap Details: <a href="https://nyuton.net/livemap-for-lifyo-dedicated-servers/" data-type="page" data-id="6">LiF:YO Livemap</a><br>LiF:YO Livemap Github: <a href="https://github.com/Nyut0n/lifyo-livemap" data-type="URL" data-id="https://github.com/Nyut0n/lifyo-livemap">https://github.com/Nyut0n/lifyo-livemap</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/lifyo-livemap-3-2-released/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YoLauncher 1.0 Release</title>
+		<link>https://nyuton.net/yolauncher-1-0-release/</link>
+					<comments>https://nyuton.net/yolauncher-1-0-release/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Sat, 11 Sep 2021 14:54:06 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1114</guid>
+
+					<description><![CDATA[After all planned features for YoLauncher were implemented within the 9 months of development and beta testing, it&#8217;s time to release and promote our stable version of YoLauncher as of today. Alongside switching from a beta to a stable release, this update introduces some enhancements and changes for better usability. We&#8217;ve also added a documentation &#8230; <a href="https://nyuton.net/yolauncher-1-0-release/" class="more-link">Continue reading<span class="screen-reader-text"> "YoLauncher 1.0 Release"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>After all planned features for YoLauncher were implemented within the 9 months of development and beta testing, it&#8217;s time to release and promote our stable version of YoLauncher as of today.</p>
+
+
+
+<p>Alongside switching from a beta to a stable release, this update introduces some enhancements and changes for better usability. We&#8217;ve also added a <a href="https://yolauncher.app/documentation" data-type="URL" data-id="https://yolauncher.app/documentation" target="_blank" rel="noreferrer noopener">documentation </a>page to the yolauncher webs to help server admins understand how modpacks work.</p>
+
+
+
+<h4 class="wp-block-heading">Region &amp; Country auto-detection</h4>
+
+
+
+<p>We have decided to remove the manual assignment of region for each server on the yolauncher website and moved to an ip-based auto-detection instead. In effect, all servers in the serverlist now have a proper (filterable!) region assignment and even a country flag for their hosting location.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://nyuton.net/wp-content/uploads/2021/09/yolo_10.jpg" alt="" class="wp-image-1115" width="620" height="322" srcset="https://nyuton.net/wp-content/uploads/2021/09/yolo_10.jpg 868w, https://nyuton.net/wp-content/uploads/2021/09/yolo_10-300x156.jpg 300w, https://nyuton.net/wp-content/uploads/2021/09/yolo_10-768x399.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>Region &amp; Location Display</figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">UI &amp; MOds Improvements</h4>
+
+
+
+<ul class="wp-block-list"><li>Added a &#8216;clear&#8217; button to the server history table</li><li>Added a seperate icon button to uninstall a modpack in the top app bar</li><li>Added a cleanup &amp; validation procedure for the client mods folder</li><li>Direct Connections now support modpacks as well</li><li>&#8230; more bugfixes and enhancements. Full changelog is available in-app.</li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/yolauncher-1-0-release/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YoLauncher 0.6 Update</title>
+		<link>https://nyuton.net/yolauncher-0-6-update/</link>
+					<comments>https://nyuton.net/yolauncher-0-6-update/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Tue, 17 Aug 2021 18:57:53 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1105</guid>
+
+					<description><![CDATA[We&#8217;re excited to release a new major update for our YoLauncher Beta today. Server owners can now upload modpacks including assets, xmls and scripts for their servers through our website at https://yolauncher.app. YoLauncher will download and install these modpacks for everyone joining the servers prior game launch. With this update, all the initially announced and &#8230; <a href="https://nyuton.net/yolauncher-0-6-update/" class="more-link">Continue reading<span class="screen-reader-text"> "YoLauncher 0.6 Update"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>We&#8217;re excited to release a new major update for our YoLauncher Beta today. Server owners can now upload modpacks including assets, xmls and scripts for their servers through our website at <a href="https://yolauncher.app" target="_blank" rel="noreferrer noopener">https://yolauncher.app</a>. YoLauncher will download and install these modpacks for everyone joining the servers prior game launch. </p>
+
+
+
+<p>With this update, all the initially announced and planned features have made it into YoLauncher, making this update the first release candiate for stable (1.0)</p>
+
+
+
+<h4 class="wp-block-heading">How modpacks work</h4>
+
+
+
+<p>A server-modpack is a zip package that contains all the custom configs, scripts and 3D assets that are individual for the server. Most servers have used BasilMod::Pack to distribute such files to players, but it comes with a downside. Large packages on heavily populated servers can cause major lag spikes due to the file packaging and distribution workload going through the gameserver itself. You&#8217;re also prompted to restart your game after new files have been downloaded. To solve these issues, we have moved the file download out of the game and into the launcher, where it can prepare and update the client folder before the game is launched.</p>
+
+
+
+<span id="more-1105"></span>
+
+
+
+<p>YoLauncher downloads and extracts the modpack into the ~/yolauncher/modpack directory of the game folder. This is where all your assets reside. If you&#8217;re distributing assets like textures, 3d models and sounds, make sure to reference them in the correct path.</p>
+
+
+
+<p>In addition, YoLauncher finds any valid XML files in the modpack and overwrites the original XMLs in the ~/data path with them. When a modpack is uninstalled, it clears the modpack folder and reverts the XMLs to the original vanilla files.</p>
+
+
+
+<h4 class="wp-block-heading">Autoloading mods</h4>
+
+
+
+<p>Thanks to the integrated <a href="https://www.lifxmod.com/" data-type="URL" data-id="https://www.lifxmod.com/" target="_blank" rel="noreferrer noopener">LiFX </a>client framework, all lifx compatible mods inside modpacks are autoloaded on game launch, giving you the freedom to add custom scripted mods to your packs.</p>
+
+
+
+<h4 class="wp-block-heading">Versioning and testing</h4>
+
+
+
+<p>In addition to the modpack version you&#8217;re currently distributing, you can host up to 3 more versions of your modpack for testing and verification. We&#8217;ve added an option in YoLauncher settings that lets you choose the modpack version from all available ones instead of auto-installing the official one. This is useful for server admins to test new versions of their modpack before official distribution.</p>
+
+
+
+<h4 class="wp-block-heading">Restrictions, Limitations</h4>
+
+
+
+<p>Modpacks may contain a fixed set of file extensions relevant to the game. These are cs, gui, xml, dae, dds, dts, xyz, png, jpg, jpeg, ogg, ogv and ttf. Modpacks containing other file extensions are rejected. </p>
+
+
+
+<p>Since you can run potentially harmful code through cs-scripts in theory, all cs files are scanned. Some TorqueScript functions are blacklisted and will trigger modpack rejection. These are: eval, exec, fileDelete, pathCopy, FileObject, and SimDownloadHelper. For this reason, we have to disallow compiled cs scripts (.dso) for now as well.</p>
+
+
+
+<p>The maximum filesize of a single modpack is 300 MB.</p>
+
+
+
+<h4 class="wp-block-heading">Compatibility</h4>
+
+
+
+<p>We recommend you to <strong>either </strong>use YoLauncher modpacks <strong>or</strong> stick with BasilMod::Pack for file distribution. Due to the nature of these two doing the same thing in effect, you may run into conflicts if you try to use both.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/yolauncher-0-6-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YoLauncher 0.5 Update</title>
+		<link>https://nyuton.net/yolauncher-0-5-update/</link>
+					<comments>https://nyuton.net/yolauncher-0-5-update/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Thu, 03 Jun 2021 19:36:00 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1102</guid>
+
+					<description><![CDATA[Yesterday we&#8217;ve published a new update for YoLauncher that includes mainly fixes, minor visual enhancements and an alternative serverlist fetching method. Due to some reports of people being unable to get YoLauncher to build a proper serverlist we&#8217;ve implemented an alternative way that doesn&#8217;t utilize Steam services directly. This can be toggled on/off in the &#8230; <a href="https://nyuton.net/yolauncher-0-5-update/" class="more-link">Continue reading<span class="screen-reader-text"> "YoLauncher 0.5 Update"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Yesterday we&#8217;ve published a new update for YoLauncher that includes mainly fixes, minor visual enhancements and an alternative serverlist fetching method. Due to some reports of people being unable to get YoLauncher to build a proper serverlist we&#8217;ve implemented an alternative way that doesn&#8217;t utilize Steam services directly. This can be toggled on/off in the app settings. You don&#8217;t need to worry about this if your serverlist in YoLauncher was working fine before.</p>
+
+
+
+<p>There&#8217;s also a new setting that lets you configure the local serverlist caching time. Be careful with low timings as that might get your IP blocked if YoLauncher is spamming Steam&#8217;s servers too much from your machine.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/yolauncher-0-5-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YoLauncher 0.4 Update</title>
+		<link>https://nyuton.net/yolauncher-0-4-update/</link>
+					<comments>https://nyuton.net/yolauncher-0-4-update/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Tue, 06 Apr 2021 04:56:32 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1097</guid>
+
+					<description><![CDATA[Yesterday we&#8217;ve updated YoLauncher to a new release with some quality of life enhancements for both players and server admins. Next to the serverlists refresh button you&#8217;ll find a filter function that lets you search for different criteria such as mods, tags, regions and some more. We will likely expand the filter in the future &#8230; <a href="https://nyuton.net/yolauncher-0-4-update/" class="more-link">Continue reading<span class="screen-reader-text"> "YoLauncher 0.4 Update"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="alignright size-thumbnail"><a href="https://nyuton.net/wp-content/uploads/2021/04/yolo_0401.jpg" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="150" height="150" src="https://nyuton.net/wp-content/uploads/2021/04/yolo_0401-150x150.jpg" alt="" class="wp-image-1099"/></a><figcaption>serverlist filter</figcaption></figure></div>
+
+
+
+<p>Yesterday we&#8217;ve updated YoLauncher to a new release with some quality of life enhancements for both players and server admins. Next to the serverlists refresh button you&#8217;ll find a filter function that lets you search for different criteria such as mods, tags, regions and some more. We will likely expand the filter in the future based on your feedback.</p>
+
+
+
+<p>A &#8220;direct connect&#8221; function has been added to mimic the in-game counterpart This allows joining hidden/private servers through YoLauncher.</p>
+
+
+
+<p>Server owners can now set recommended, required and forbidden client mods on the yolauncher.app website for their servers. The launcher will then notify users about conflicts, missing mods or your recommendations when they attempt to join the server.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="https://nyuton.net/wp-content/uploads/2021/04/yolo_3.jpg" alt="" class="wp-image-1098" width="489" height="428" srcset="https://nyuton.net/wp-content/uploads/2021/04/yolo_3.jpg 528w, https://nyuton.net/wp-content/uploads/2021/04/yolo_3-300x262.jpg 300w" sizes="(max-width: 489px) 85vw, 489px" /><figcaption>client mod settings</figcaption></figure>
+
+
+
+<p>We&#8217;ve also added some stats and error collection. Right now this is just counting app startups, mod installations and server joins. Steam API errors are also reported to our web api to gather more information about an issue that some users are currently facing.</p>
+
+
+
+<p>The new version is distributed through the auto-updater. If you&#8217;re not using YoLauncher yet, grab a copy from https://yolauncher.app.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/yolauncher-0-4-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YoLauncher 0.3 Update &#038; Progress</title>
+		<link>https://nyuton.net/yolauncher-update-progress/</link>
+					<comments>https://nyuton.net/yolauncher-update-progress/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Thu, 25 Mar 2021 19:42:48 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1080</guid>
+
+					<description><![CDATA[After the initial beta release back in January I&#8217;ve come to team up with our friends at LiFX to make YoLauncher the best it can be. Today we&#8217;re releasing an updated version that features even more details about servers and a client mod manager with the most popular mods that can be installed or uninstalled &#8230; <a href="https://nyuton.net/yolauncher-update-progress/" class="more-link">Continue reading<span class="screen-reader-text"> "YoLauncher 0.3 Update &#038; Progress"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>After the initial beta release back in January I&#8217;ve come to team up with our friends at <a rel="noreferrer noopener" href="https://www.lifxmod.com/" target="_blank">LiFX</a> to make YoLauncher the best it can be.</p>
+
+
+
+<p>Today we&#8217;re releasing an updated version that features even more details about servers and a <strong>client mod manager</strong> with the most popular mods that can be installed or uninstalled in one click. Note that YoLauncher is not compatible with earlier autoloaders released by LiFX or me, such as art.zip or core.zip. It&#8217;ll cleanup these deprecated versions from your YO directory and fully rely on the mods you&#8217;ve installed from the YoLauncher GUI to avoid conflicts.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><a href="https://nyuton.net/wp-content/uploads/2021/03/yl_mm.jpg"><img loading="lazy" decoding="async" src="https://nyuton.net/wp-content/uploads/2021/03/yl_mm.jpg" alt="" class="wp-image-1082" width="441" height="358" srcset="https://nyuton.net/wp-content/uploads/2021/03/yl_mm.jpg 881w, https://nyuton.net/wp-content/uploads/2021/03/yl_mm-300x244.jpg 300w, https://nyuton.net/wp-content/uploads/2021/03/yl_mm-768x624.jpg 768w" sizes="(max-width: 441px) 85vw, 441px" /></a></figure>
+
+
+
+<p></p>
+
+
+
+<p>The app is now distributed through our new website at <a rel="noreferrer noopener" href="https://yolauncher.app" target="_blank">https://yolauncher.app</a></p>
+
+
+
+<p>We&#8217;ve also set up a login for server owners at the YoLauncher website that lets you customize how your own server should be displayed in YoLauncher. In addition to editing the already existing facts, you can now add a short server description and tag your server with themes such as &#8220;PvP&#8221; or &#8220;RP&#8221;.</p>
+
+
+
+<span id="more-1080"></span>
+
+
+
+<h3 class="wp-block-heading">Future Plans</h3>
+
+
+
+<p>The last core feature of YoLauncher we&#8217;ll be working on is an option for server owners to upload a full server modpack at the YoLauncher website for their server and have that auto-distributed to players joining their servers through YoLauncher. This would somehow be a sufficient compensation for YO&#8217;s lack of Steam Workshop support, which is the final goal for YoLauncher.</p>
+
+
+
+<h3 class="wp-block-heading">Support / Discord</h3>
+
+
+
+<p>Feel free to join <a rel="noreferrer noopener" href="https://discord.gg/EH9b6tqQ4C" data-type="URL" data-id="https://discord.gg/EH9b6tqQ4C" target="_blank">LiFX Discord</a> for more detail information, help, support, suggestions or a friendly chat with other LiF:YO enthusiasts.</p>
+
+
+
+<h3 class="wp-block-heading">SmartScreen Warnings</h3>
+
+
+
+<p>One final note: If you get a Windows SmartScreen warning when trying to install the app, please safely skip/ignore it. We expect this to go away after the first couple hundred installations on Windows computers have completed. Due to the codesign certificate that is being used, it needs to build up trust in Microsoft services before the warning will no longer appear. Click &#8220;more info&#8221; to unlock the &#8220;run anyway&#8221; option.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="593" src="https://nyuton.net/wp-content/uploads/2021/03/yo_ss.png" alt="" class="wp-image-1081" srcset="https://nyuton.net/wp-content/uploads/2021/03/yo_ss.png 640w, https://nyuton.net/wp-content/uploads/2021/03/yo_ss-300x278.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+
+
+
+<p> </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/yolauncher-update-progress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YoLauncher 0.2 Beta Release</title>
+		<link>https://nyuton.net/yolauncher-beta-release/</link>
+					<comments>https://nyuton.net/yolauncher-beta-release/#respond</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 18:49:36 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1052</guid>
+
+					<description><![CDATA[Every end is a new beginning. When Bitbox announced the end of the LiF:MMO, I felt something new coming up. I started working on a simple desktop application that drags the serverlist out of the game. Why? Because this way, we could build our own replacement for Steam Workshop eventually. The launcher displays the serverlist &#8230; <a href="https://nyuton.net/yolauncher-beta-release/" class="more-link">Continue reading<span class="screen-reader-text"> "YoLauncher 0.2 Beta Release"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Every end is a new beginning. When Bitbox announced the end of the LiF:MMO, I felt something new coming up. I started working on a simple desktop application that drags the serverlist out of the game. Why? Because this way, we could build our own replacement for Steam Workshop eventually.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-medium"><a href="https://nyuton.net/wp-content/uploads/2021/01/yolo_2.jpg"><img loading="lazy" decoding="async" width="300" height="160" src="https://nyuton.net/wp-content/uploads/2021/01/yolo_2-300x160.jpg" alt="" class="wp-image-1056" srcset="https://nyuton.net/wp-content/uploads/2021/01/yolo_2-300x160.jpg 300w, https://nyuton.net/wp-content/uploads/2021/01/yolo_2-1024x545.jpg 1024w, https://nyuton.net/wp-content/uploads/2021/01/yolo_2-768x409.jpg 768w, https://nyuton.net/wp-content/uploads/2021/01/yolo_2-1200x638.jpg 1200w, https://nyuton.net/wp-content/uploads/2021/01/yolo_2.jpg 1434w" sizes="(max-width: 300px) 85vw, 300px" /></a></figure></div>
+
+
+
+<p>The launcher displays the serverlist and lets you direct-join any server. It&#8217;ll then launch the LiF:YO game and autoconnect you to the selected server. This is a better way of connecting people to servers because you could download and install any mods and assets that the server requires before the game launches.</p>
+
+
+
+<span id="more-1052"></span>
+
+
+
+<p>Imagine server owners being able to upload a modpack somewhere and have the launcher auto-sync it to the players when (before) they join their server. It&#8217;s a very convenient and user-friendly way of distributing and installing mods. That would be the end goal. But it&#8217;s a long way to go.</p>
+
+
+
+<p>For now, the launcher has no mod management yet. But even with no mod support it can still be useful, since it already has some handy features like search/filter and setting a homeserver for quickjoin. It can also display much more information than the ingame serverlist, as it uses FeudalTools and Livemaps to gather information about the servers. Map previews, mod information, and so on. Look at the screenshots to get an idea.</p>
+
+
+
+<p>More info to follow soon.</p>
+
+
+
+<p><a href="https://nyuton.net/yolauncher/" data-type="page" data-id="1054">YoLauncher Download</a></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://nyuton.net/wp-content/uploads/2021/01/yolo_1.jpg"><img loading="lazy" decoding="async" width="1024" height="545" src="https://nyuton.net/wp-content/uploads/2021/01/yolo_1-1024x545.jpg" alt="" class="wp-image-1055" srcset="https://nyuton.net/wp-content/uploads/2021/01/yolo_1-1024x545.jpg 1024w, https://nyuton.net/wp-content/uploads/2021/01/yolo_1-300x160.jpg 300w, https://nyuton.net/wp-content/uploads/2021/01/yolo_1-768x409.jpg 768w, https://nyuton.net/wp-content/uploads/2021/01/yolo_1-1200x638.jpg 1200w, https://nyuton.net/wp-content/uploads/2021/01/yolo_1.jpg 1438w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/yolauncher-beta-release/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tradepost Mod Update 1.5</title>
+		<link>https://nyuton.net/tradepost-mod-update-1-5/</link>
+					<comments>https://nyuton.net/tradepost-mod-update-1-5/#comments</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2020 23:26:57 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1035</guid>
+
+					<description><![CDATA[It&#8217;s been a while since the last update for the trading post mod. Today I&#8217;m releasing a new version that implements a transaction log, trading of potions and similar items with effects and Alignment offers for the server market. Preserving Effects The effects of all items, including preperations, potions and cocktails should now be preserved &#8230; <a href="https://nyuton.net/tradepost-mod-update-1-5/" class="more-link">Continue reading<span class="screen-reader-text"> "Tradepost Mod Update 1.5"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>It&#8217;s been a while since the last update for the trading post mod. Today I&#8217;m releasing a new version that implements a transaction log, trading of potions and similar items with effects and Alignment offers for the server market.</p>
+
+
+
+<h4 class="wp-block-heading">Preserving Effects</h4>
+
+
+
+<p>The effects of all items, including preperations, potions and cocktails should now be preserved when trading them through the guild trading post. For server market offers, the GM can activate them and configure the magnitutde through the UI when setting up the offer.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="663" height="259" src="https://nyuton.net/wp-content/uploads/2020/08/TP15_1.jpg" alt="" class="wp-image-1039" srcset="https://nyuton.net/wp-content/uploads/2020/08/TP15_1.jpg 663w, https://nyuton.net/wp-content/uploads/2020/08/TP15_1-300x117.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><a href="https://nyuton.net/wp-content/uploads/2020/08/TP15_2.jpg"><img loading="lazy" decoding="async" src="https://nyuton.net/wp-content/uploads/2020/08/TP15_2.jpg" alt="" class="wp-image-1040" width="220" height="190" srcset="https://nyuton.net/wp-content/uploads/2020/08/TP15_2.jpg 587w, https://nyuton.net/wp-content/uploads/2020/08/TP15_2-300x259.jpg 300w" sizes="(max-width: 220px) 85vw, 220px" /></a></figure></div>
+
+
+
+<p>All items with effects now have an icon with a tooltip showing their effects list. <em>*Note that this is imported from the default item_effects.xml file. If you made changes to this file on your server, the trading UI won&#8217;t display them correctly and show the default values instead.</em></p>
+
+
+
+<h4 class="wp-block-heading">Alignment Trade</h4>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><a href="https://nyuton.net/wp-content/uploads/2020/08/TP15_4.jpg"><img loading="lazy" decoding="async" src="https://nyuton.net/wp-content/uploads/2020/08/TP15_4.jpg" alt="" class="wp-image-1041" width="247" height="161" srcset="https://nyuton.net/wp-content/uploads/2020/08/TP15_4.jpg 614w, https://nyuton.net/wp-content/uploads/2020/08/TP15_4-300x195.jpg 300w" sizes="(max-width: 247px) 85vw, 247px" /></a></figure></div>
+
+
+
+<p>The server market (Sell To Crown, Server Sales) now support Alignment offers. Players can buy or sell Alignment for coins if such offers are set up by the GM/Admins. The guild trading tab <strong>does not</strong> support this type of transaction however.</p>
+
+
+
+<span id="more-1035"></span>
+
+
+
+<p>You can also set player alignment limits in the Administration tab to allow buying and selling alignment within a defined range only.</p>
+
+
+
+<h4 class="wp-block-heading"> Transaction Log</h4>
+
+
+
+<p>Sometimes, item transactions fail and cause players to lose items. There&#8217;s a number of reasons for this. It could be players leaving the trading posts during a transaction, dropping items, merging or splitting item stacks, incomptaibility with other mods, technical difficulties, bugs in the mod or in the game. In earlier versions this was almost impossible to track for GMs, as failed trades weren&#8217;t logged.</p>
+
+
+
+<p>The new transaction log in the Admin tab keeps track of every single item transaction that the mod attempts and reports success or failure. I hope this is useful for Admins to trace back any issue that a player may report.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://nyuton.net/wp-content/uploads/2020/08/TP15_3.jpg"><img loading="lazy" decoding="async" width="1024" height="649" src="https://nyuton.net/wp-content/uploads/2020/08/TP15_3-1024x649.jpg" alt="" class="wp-image-1042" srcset="https://nyuton.net/wp-content/uploads/2020/08/TP15_3-1024x649.jpg 1024w, https://nyuton.net/wp-content/uploads/2020/08/TP15_3-300x190.jpg 300w, https://nyuton.net/wp-content/uploads/2020/08/TP15_3-768x487.jpg 768w, https://nyuton.net/wp-content/uploads/2020/08/TP15_3.jpg 1037w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">Misc</h4>
+
+
+
+<ol class="wp-block-list" id="block-e3796597-42d4-4610-9fd5-bc0511d71c57"><li>Horses are now excluded from age-check and can be traded at any age/durability</li><li>New offer UI for the guild trading post now sets the stack size of the selected item stack as a default, instead of 1.</li><li>Added direct link to <a href="https://kb.feudal.tools/knowledge-base/tradeposts-mod-user-guide/" target="_blank" rel="noreferrer noopener">user guide</a> to trading UI footer</li><li>Fixed loss of GM mode after receiving regional items</li><li>Fixed missing locale for trading post charge/withdraw actions in the protocol</li><li>Fixed error output in server console under certain conditions</li><li>Fixed potential item duplication issue</li></ol>
+
+
+
+<h4 class="wp-block-heading">Updating</h4>
+
+
+
+<p>Download and unpack the new&nbsp;<a href="https://feudal.tools/downloads/Tradepost.Server.v1.5.zip">server mod v1.5</a>. Overwrite the old files. You may backup and re-use the old&nbsp;<strong>config.cs</strong>&nbsp;since this file didn’t change. Then restart the server.</p>
+
+
+
+<p>If any issues occur after the update, please report them in the <a href="https://forum.feudal.tools" target="_blank" rel="noreferrer noopener">forums</a>. Don’t forget to attach a server logfile and a precise description (or screenshot) of the issue. Thank you.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/tradepost-mod-update-1-5/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TTmod 1.5 released</title>
+		<link>https://nyuton.net/ttmod-1-5-released/</link>
+					<comments>https://nyuton.net/ttmod-1-5-released/#comments</comments>
+		
+		<dc:creator><![CDATA[nyuton]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2020 20:37:45 +0000</pubDate>
+				<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://nyuton.net/?p=1020</guid>
+
+					<description><![CDATA[This update fixes two issues found in v1.4 and adds new functions for future Livemap updates. The api documentation page was updated accordingly. TTmod Download Page Updating notices Make sure to restart your server after updating the mod files. If you are hosting a Livemap on your own webserver, make sure it is updated to &#8230; <a href="https://nyuton.net/ttmod-1-5-released/" class="more-link">Continue reading<span class="screen-reader-text"> "TTmod 1.5 released"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>This update fixes two issues found in v1.4 and adds new functions for future Livemap updates. The <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://kb.feudal.tools/knowledge-base/ttmod-development-api/" target="_blank">api documentation</a> page was updated accordingly.</p>
+
+
+
+<p><a href="https://nyuton.net/ttmod-lifyo-server-mod/">TTmod Download Page</a></p>
+
+
+
+<h4 class="wp-block-heading">Updating notices</h4>
+
+
+
+<ul class="wp-block-list"><li>Make sure to restart your server after updating the mod files. </li><li>If you are hosting a Livemap on your own webserver, make sure it is updated to 3.1.0 or higher before updating TTmod. </li></ul>
+
+
+
+<h4 class="wp-block-heading">Changelog</h4>
+
+
+
+<ul class="wp-block-list"><li>Fixed: Animals table for Livemap doesn&#8217;t populate occaisonally</li><li>Fixed: RCON player kick not working</li><li>Added option to insert the character name to the MOTD.</li><li>Added new RCON command type for Alignment manipulation</li><li>Added method to bind RCON commands to callback events</li><li>Added new playtime-sensitive callbacks for character and account playtime on the server</li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nyuton.net/ttmod-1-5-released/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
