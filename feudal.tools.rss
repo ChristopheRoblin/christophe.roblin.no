@@ -27,26 +27,26 @@
 	<height>32</height>
 </image> 
 <item>
-		<title>Tradepost Mod Update 1.6</title>
-		<link>https://nyuton.net/tradepost-mod-update-1-6/</link>
-					<comments>https://nyuton.net/tradepost-mod-update-1-6/#comments</comments>
+		<title>Feudal.Tools v.2.4.00</title>
+		<link>https://feudal.tools</link>
+		<comments></comments>
 		
-		<dc:creator><![CDATA[nyuton]]></dc:creator>
-		<pubDate>Sat, 02 Oct 2021 16:33:56 +0000</pubDate>
-				<category><![CDATA[Life is Feudal : Your Own]]></category>
-		<guid isPermaLink="false">https://nyuton.net/?p=1122</guid>
+		<dc:creator><![CDATA[mjoed]]></dc:creator>
+		<pubDate>Sat, 04 Jan 2025 12:56:03 +0000</pubDate>
+		<category><![CDATA[Life is Feudal : Your Own]]></category>
+		<guid isPermaLink="false">https://feudal.tools</guid>
 
-					<description><![CDATA[Feudal.Tools v2.4.0]]></description>
-										<content:encoded><![CDATA[
+		<description><![CDATA[Feudal.Tools v2.4.0]]></description>
+		<content:encoded><![CDATA[
 <p>We've made a few updates to Feudal.Tools and the additional services, upgrading PHP versions to ensure continued security patches and we've resolved bugs that have occured during this transition.</p>
 <p>Together with this we've moved to a different stronger hardware and removed free options for our tools as they cost to run</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/</wfw:commentRss>
-			<slash:comments></slash:comments>
+		<wfw:commentRss>/</wfw:commentRss>
+		<slash:comments></slash:comments>
 		
 		
-			</item>
+	</item>
 	<item>
 		<title>Tradepost Mod Update 1.6</title>
 		<link>https://nyuton.net/tradepost-mod-update-1-6/</link>
